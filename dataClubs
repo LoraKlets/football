@@ -1,0 +1,63 @@
+[
+  {
+   "club": "887",
+   "matches": [
+     {"tour":1, "pos":5,"result":"won"},
+     {"tour":2, "pos":1,"result":"won"},
+     {"tour":3, "pos":2,"result":"drawn"},
+     {"tour":4, "pos":2,"result":"lost"},
+     {"tour":5, "pos":4,"result":"won"},
+     {"tour":6, "pos":2,"result":"drawn"},
+     {"tour":7, "pos":2,"result":"drawn"},
+     {"tour":8, "pos":1,"result":"won"},
+     {"tour":9, "pos":1,"result":"won"}
+   ]},
+   {"club":"883",
+    "matches": [
+      {"tour":1, "pos":2,"result":"won"},
+      {"tour":2, "pos":3,"result":"won"},
+      {"tour":3, "pos":3,"result":"drawn"},
+      {"tour":4, "pos":3,"result":"lost"},
+      {"tour":5, "pos":4,"result":"won"},
+      {"tour":6, "pos":2,"result":"drawn"},
+      {"tour":7, "pos":2,"result":"drawn"},
+      {"tour":8, "pos":1,"result":"won"},
+      {"tour":9, "pos":1,"result":"won"}
+    ]},
+    {"club":"888",
+     "matches": [
+       {"tour":1, "pos":4,"result":"won"},
+       {"tour":2, "pos":4,"result":"won"},
+       {"tour":3, "pos":4,"result":"drawn"},
+       {"tour":4, "pos":4,"result":"lost"},
+       {"tour":5, "pos":4,"result":"won"},
+       {"tour":6, "pos":4,"result":"drawn"},
+       {"tour":7, "pos":4,"result":"drawn"},
+       {"tour":8, "pos":4,"result":"won"},
+       {"tour":9, "pos":4,"result":"won"}
+     ]},
+     {"club":"893",
+      "matches": [
+        {"tour":1, "pos":3,"result":"won"},
+        {"tour":2, "pos":2,"result":"lost"},
+        {"tour":3, "pos":3,"result":"drawn"},
+        {"tour":4, "pos":3,"result":"lost"},
+        {"tour":5, "pos":6,"result":"lost"},
+        {"tour":6, "pos":7,"result":"won"},
+        {"tour":7, "pos":5,"result":"won"},
+        {"tour":8, "pos":4,"result":"lost"},
+        {"tour":9, "pos":6,"result":"won"}
+      ]},
+      {"club":"892",
+       "matches": [
+         {"tour":1, "pos":5,"result":"won"},
+         {"tour":2, "pos":1,"result":"won"},
+         {"tour":3, "pos":2,"result":"drawn"},
+         {"tour":4, "pos":2,"result":"lost"},
+         {"tour":5, "pos":4,"result":"won"},
+         {"tour":6, "pos":2,"result":"drawn"},
+         {"tour":7, "pos":2,"result":"drawn"},
+         {"tour":8, "pos":1,"result":"won"},
+         {"tour":9, "pos":1,"result":"won"}
+       ]}
+]
